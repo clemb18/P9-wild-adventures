@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ms-business/ms-adventures/ms-adventures.iml" filepath="$PROJECT_DIR$/ms-business/ms-adventures/ms-adventures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-business/ms-sessions/ms-sessions.iml" filepath="$PROJECT_DIR$/ms-business/ms-sessions/ms-sessions.iml" />
+    </modules>
+  </component>
+</project>
